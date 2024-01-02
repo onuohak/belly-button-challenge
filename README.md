@@ -1,6 +1,8 @@
 # belly-button-challenge
 Module 14
 
+I consulted both my classmates and the internet to complete this assignment. 
+
 **Requirements**
 Bar Chart (30 points)
 Chart initializes without error (10 points)
